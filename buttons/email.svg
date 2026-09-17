@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="115" height="52" viewBox="0 0 115 52" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="113" height="52" viewBox="0 0 113 52" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">
   <defs>
     <filter id="glow" x="-30%" y="-60%" width="160%" height="220%">
       <feDropShadow dx="0" dy="0" stdDeviation="3.2" flood-color="#ef4444" flood-opacity="0.55"/>
     </filter>
   </defs>
   <g filter="url(#glow)">
-    <rect x="1.5" y="1.5" width="112" height="49" rx="14" fill="#0d1117" stroke="#ef4444" stroke-opacity="0.55" stroke-width="1.4"/>
+    <rect x="1.5" y="1.5" width="110" height="49" rx="14" fill="#0d1117" stroke="#ef4444" stroke-opacity="0.55" stroke-width="1.4"/>
   </g>
-  <g transform="translate(17,15.0) scale(0.9167)"><g fill="none" stroke="#f87171" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><rect x="2.4" y="4.8" width="19.2" height="14.4" rx="2.6"/><path d="M3.2 6.2 L12 13 L20.8 6.2"/></g></g>
+  <g transform="translate(18,15.0) scale(0.9167)"><g fill="none" stroke="#f87171" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><rect x="2.4" y="4.8" width="19.2" height="14.4" rx="2.6"/><path d="M3.2 6.2 L12 13 L20.8 6.2"/></g></g>
   <text x="51" y="31.5" font-size="15.5" font-weight="600" fill="#f87171">Email</text>
 </svg>

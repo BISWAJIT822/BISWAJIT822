@@ -41,43 +41,32 @@
 <!-- ===== TECH STACK ===== -->
 ### 💻 Tech Stack
 
-<table align="center">
-  <tr>
-    <td align="center" width="112" height="92"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42" alt="C"/><br/><sub><b>C</b></sub></td>
-    <td align="center" width="112" height="92"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" alt="C++"/><br/><sub><b>C++</b></sub></td>
-    <td align="center" width="112" height="92"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" alt="Java"/><br/><sub><b>Java</b></sub></td>
-    <td align="center" width="112" height="92"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="42" alt="Kotlin"/><br/><sub><b>Kotlin</b></sub></td>
-    <td align="center" width="112" height="92"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python"/><br/><sub><b>Python</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="112" height="92"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="HTML5"/><br/><sub><b>HTML5</b></sub></td>
-    <td align="center" width="112" height="92"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="CSS3"/><br/><sub><b>CSS3</b></sub></td>
-    <td align="center" width="112" height="92"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="42" alt="Bootstrap"/><br/><sub><b>Bootstrap</b></sub></td>
-    <td align="center" width="112" height="92"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="React"/><br/><sub><b>React</b></sub></td>
-    <td align="center" width="112" height="92"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="React Native"/><br/><sub><b>React Native</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="112" height="92"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="42" alt="Android"/><br/><sub><b>Android</b></sub></td>
-    <td align="center" width="112" height="92"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="42" alt="Flutter"/><br/><sub><b>Flutter</b></sub></td>
-    <td align="center" width="112" height="92"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" alt="Node.js"/><br/><sub><b>Node.js</b></sub></td>
-    <td align="center" width="112" height="92"><img src="https://cdn.simpleicons.org/django/44B78B" height="42" alt="Django"/><br/><sub><b>Django</b></sub></td>
-    <td align="center" width="112" height="92"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="42" alt="TensorFlow"/><br/><sub><b>TensorFlow</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="112" height="92"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" alt="MySQL"/><br/><sub><b>MySQL</b></sub></td>
-    <td align="center" width="112" height="92"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" alt="PostgreSQL"/><br/><sub><b>PostgreSQL</b></sub></td>
-    <td align="center" width="112" height="92"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="42" alt="Oracle"/><br/><sub><b>Oracle</b></sub></td>
-    <td align="center" width="112" height="92"><img src="https://skillicons.dev/icons?i=aws&theme=dark" height="42" alt="AWS"/><br/><sub><b>AWS</b></sub></td>
-    <td align="center" width="112" height="92"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="42" alt="Kubernetes"/><br/><sub><b>Kubernetes</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="112" height="92"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="42" alt="Firebase"/><br/><sub><b>Firebase</b></sub></td>
-    <td align="center" width="112" height="92"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git"/><br/><sub><b>Git</b></sub></td>
-    <td align="center" width="112" height="92"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="42" alt="Figma"/><br/><sub><b>Figma</b></sub></td>
-    <td align="center" width="112" height="92"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="42" alt="Photoshop"/><br/><sub><b>Photoshop</b></sub></td>
-    <td align="center" width="112" height="92"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="42" alt="Arduino"/><br/><sub><b>Arduino</b></sub></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="44" alt="C"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="44" alt="C++"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="44" alt="Java"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="44" alt="Kotlin"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="44" alt="Python"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="44" alt="HTML5"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="44" alt="CSS3"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="44" alt="Bootstrap"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="44" alt="React"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="44" alt="Android"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="44" alt="Flutter"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="44" alt="Node.js"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/django/44B78B" height="44" alt="Django"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="44" alt="TensorFlow"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="44" alt="MySQL"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="44" alt="PostgreSQL"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="44" alt="Oracle"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="44" alt="AWS"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="44" alt="Kubernetes"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="44" alt="Firebase"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="44" alt="Git"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="44" alt="Figma"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="44" alt="Photoshop"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="44" alt="Arduino"/>
+</p>
 
 ---
 

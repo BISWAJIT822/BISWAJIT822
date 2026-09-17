@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="292" viewBox="0 0 640 292" font-family="'Fira Code','Cascadia Code','Consolas',monospace">
+<rect x="0.5" y="0.5" width="639" height="291" rx="12" fill="#0d1117" stroke="#30363d"/>
+<rect x="0.5" y="0.5" width="639" height="40" rx="12" fill="#161b22"/>
+<rect x="0.5" y="28" width="639" height="12" fill="#161b22"/>
+<circle cx="22" cy="20.0" r="6" fill="#ff5f56"/>
+<circle cx="42" cy="20.0" r="6" fill="#ffbd2e"/>
+<circle cx="62" cy="20.0" r="6" fill="#27c93f"/>
+<text x="320.0" y="25.0" text-anchor="middle" fill="#8b949e" font-size="13">biswajit.js</text>
+<defs>
+<clipPath id="c0"><rect x="0" y="51" height="26" width="0"><animate attributeName="width" dur="7.0s" repeatCount="indefinite" values="24;24;178.8;178.8" keyTimes="0;0.0000;0.0600;1"/></rect></clipPath>
+<clipPath id="c1"><rect x="0" y="77" height="26" width="0"><animate attributeName="width" dur="7.0s" repeatCount="indefinite" values="24;24;213.2;213.2" keyTimes="0;0.0643;0.1243;1"/></rect></clipPath>
+<clipPath id="c2"><rect x="0" y="103" height="26" width="0"><animate attributeName="width" dur="7.0s" repeatCount="indefinite" values="24;24;290.6;290.6" keyTimes="0;0.1286;0.1886;1"/></rect></clipPath>
+<clipPath id="c3"><rect x="0" y="129" height="26" width="0"><animate attributeName="width" dur="7.0s" repeatCount="indefinite" values="24;24;479.8;479.8" keyTimes="0;0.1929;0.2529;1"/></rect></clipPath>
+<clipPath id="c4"><rect x="0" y="155" height="26" width="0"><animate attributeName="width" dur="7.0s" repeatCount="indefinite" values="24;24;505.6;505.6" keyTimes="0;0.2571;0.3171;1"/></rect></clipPath>
+<clipPath id="c5"><rect x="0" y="181" height="26" width="0"><animate attributeName="width" dur="7.0s" repeatCount="indefinite" values="24;24;299.2;299.2" keyTimes="0;0.3214;0.3814;1"/></rect></clipPath>
+<clipPath id="c6"><rect x="0" y="207" height="26" width="0"><animate attributeName="width" dur="7.0s" repeatCount="indefinite" values="24;24;479.8;479.8" keyTimes="0;0.3857;0.4457;1"/></rect></clipPath>
+<clipPath id="c7"><rect x="0" y="233" height="26" width="0"><animate attributeName="width" dur="7.0s" repeatCount="indefinite" values="24;24;497.0;497.0" keyTimes="0;0.4500;0.5100;1"/></rect></clipPath>
+<clipPath id="c8"><rect x="0" y="259" height="26" width="0"><animate attributeName="width" dur="7.0s" repeatCount="indefinite" values="24;24;41.2;41.2" keyTimes="0;0.5143;0.5743;1"/></rect></clipPath>
+</defs>
+<g clip-path="url(#c0)">
+<text x="24" y="66" font-size="15" textLength="154.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">
+<tspan fill="#c792ea">const </tspan>
+<tspan fill="#82aaff">biswajit </tspan>
+<tspan fill="#d6deeb">= </tspan>
+<tspan fill="#d6deeb">{</tspan>
+</text></g>
+<g clip-path="url(#c1)">
+<text x="24" y="92" font-size="15" textLength="189.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">
+<tspan fill="#d6deeb">    </tspan>
+<tspan fill="#7fdbca">location</tspan>
+<tspan fill="#d6deeb">: </tspan>
+<tspan fill="#ecc48d">&quot;India&quot;</tspan>
+<tspan fill="#d6deeb">,</tspan>
+</text></g>
+<g clip-path="url(#c2)">
+<text x="24" y="118" font-size="15" textLength="266.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">
+<tspan fill="#d6deeb">    </tspan>
+<tspan fill="#7fdbca">role</tspan>
+<tspan fill="#d6deeb">: </tspan>
+<tspan fill="#ecc48d">&quot;Frontend Developer&quot;</tspan>
+<tspan fill="#d6deeb">,</tspan>
+</text></g>
+<g clip-path="url(#c3)">
+<text x="24" y="144" font-size="15" textLength="455.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">
+<tspan fill="#d6deeb">    </tspan>
+<tspan fill="#7fdbca">code</tspan>
+<tspan fill="#d6deeb">: [</tspan>
+<tspan fill="#ecc48d">&quot;JavaScript&quot;</tspan>
+<tspan fill="#d6deeb">, </tspan>
+<tspan fill="#ecc48d">&quot;Kotlin&quot;</tspan>
+<tspan fill="#d6deeb">, </tspan>
+<tspan fill="#ecc48d">&quot;Java&quot;</tspan>
+<tspan fill="#d6deeb">, </tspan>
+<tspan fill="#ecc48d">&quot;Python&quot;</tspan>
+<tspan fill="#d6deeb">],</tspan>
+</text></g>
+<g clip-path="url(#c4)">
+<text x="24" y="170" font-size="15" textLength="481.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">
+<tspan fill="#d6deeb">    </tspan>
+<tspan fill="#7fdbca">stack</tspan>
+<tspan fill="#d6deeb">: [</tspan>
+<tspan fill="#ecc48d">&quot;React&quot;</tspan>
+<tspan fill="#d6deeb">, </tspan>
+<tspan fill="#ecc48d">&quot;React Native&quot;</tspan>
+<tspan fill="#d6deeb">, </tspan>
+<tspan fill="#ecc48d">&quot;Android&quot;</tspan>
+<tspan fill="#d6deeb">, </tspan>
+<tspan fill="#ecc48d">&quot;Node&quot;</tspan>
+<tspan fill="#d6deeb">],</tspan>
+</text></g>
+<g clip-path="url(#c5)">
+<text x="24" y="196" font-size="15" textLength="275.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">
+<tspan fill="#d6deeb">    </tspan>
+<tspan fill="#7fdbca">currentlyLearning</tspan>
+<tspan fill="#d6deeb">: </tspan>
+<tspan fill="#ecc48d">&quot;Python&quot;</tspan>
+<tspan fill="#d6deeb">,</tspan>
+</text></g>
+<g clip-path="url(#c6)">
+<text x="24" y="222" font-size="15" textLength="455.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">
+<tspan fill="#d6deeb">    </tspan>
+<tspan fill="#7fdbca">openTo</tspan>
+<tspan fill="#d6deeb">: [</tspan>
+<tspan fill="#ecc48d">&quot;Freelance&quot;</tspan>
+<tspan fill="#d6deeb">, </tspan>
+<tspan fill="#ecc48d">&quot;Collabs&quot;</tspan>
+<tspan fill="#d6deeb">, </tspan>
+<tspan fill="#ecc48d">&quot;Partnerships&quot;</tspan>
+<tspan fill="#d6deeb">],</tspan>
+</text></g>
+<g clip-path="url(#c7)">
+<text x="24" y="248" font-size="15" textLength="473.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">
+<tspan fill="#d6deeb">    </tspan>
+<tspan fill="#7fdbca">funFact</tspan>
+<tspan fill="#d6deeb">: </tspan>
+<tspan fill="#ecc48d">&quot;I turn ideas into clean, responsive UIs&quot;</tspan>
+<tspan fill="#d6deeb">,</tspan>
+</text></g>
+<g clip-path="url(#c8)">
+<text x="24" y="274" font-size="15" textLength="17.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">
+<tspan fill="#d6deeb">};</tspan>
+</text></g>
+<rect y="53" width="2.5" height="17" fill="#82aaff" opacity="0"><animate attributeName="x" dur="7.0s" repeatCount="indefinite" values="24;24;178.8;178.8" keyTimes="0;0.0000;0.0600;1"/><animate attributeName="opacity" dur="7.0s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.0000;0.0000;0.0600;0.0600;1"/></rect>
+<rect y="79" width="2.5" height="17" fill="#82aaff" opacity="0"><animate attributeName="x" dur="7.0s" repeatCount="indefinite" values="24;24;213.2;213.2" keyTimes="0;0.0643;0.1243;1"/><animate attributeName="opacity" dur="7.0s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.0643;0.0643;0.1243;0.1243;1"/></rect>
+<rect y="105" width="2.5" height="17" fill="#82aaff" opacity="0"><animate attributeName="x" dur="7.0s" repeatCount="indefinite" values="24;24;290.6;290.6" keyTimes="0;0.1286;0.1886;1"/><animate attributeName="opacity" dur="7.0s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.1286;0.1286;0.1886;0.1886;1"/></rect>
+<rect y="131" width="2.5" height="17" fill="#82aaff" opacity="0"><animate attributeName="x" dur="7.0s" repeatCount="indefinite" values="24;24;479.8;479.8" keyTimes="0;0.1929;0.2529;1"/><animate attributeName="opacity" dur="7.0s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.1929;0.1929;0.2529;0.2529;1"/></rect>
+<rect y="157" width="2.5" height="17" fill="#82aaff" opacity="0"><animate attributeName="x" dur="7.0s" repeatCount="indefinite" values="24;24;505.6;505.6" keyTimes="0;0.2571;0.3171;1"/><animate attributeName="opacity" dur="7.0s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.2571;0.2571;0.3171;0.3171;1"/></rect>
+<rect y="183" width="2.5" height="17" fill="#82aaff" opacity="0"><animate attributeName="x" dur="7.0s" repeatCount="indefinite" values="24;24;299.2;299.2" keyTimes="0;0.3214;0.3814;1"/><animate attributeName="opacity" dur="7.0s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.3214;0.3214;0.3814;0.3814;1"/></rect>
+<rect y="209" width="2.5" height="17" fill="#82aaff" opacity="0"><animate attributeName="x" dur="7.0s" repeatCount="indefinite" values="24;24;479.8;479.8" keyTimes="0;0.3857;0.4457;1"/><animate attributeName="opacity" dur="7.0s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.3857;0.3857;0.4457;0.4457;1"/></rect>
+<rect y="235" width="2.5" height="17" fill="#82aaff" opacity="0"><animate attributeName="x" dur="7.0s" repeatCount="indefinite" values="24;24;497.0;497.0" keyTimes="0;0.4500;0.5100;1"/><animate attributeName="opacity" dur="7.0s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.4500;0.4500;0.5100;0.5100;1"/></rect>
+<rect y="261" width="2.5" height="17" fill="#82aaff" opacity="0"><animate attributeName="x" dur="7.0s" repeatCount="indefinite" values="24;24;41.2;41.2" keyTimes="0;0.5143;0.5743;1"/><animate attributeName="opacity" dur="7.0s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.5143;0.5143;0.5743;0.5743;1"/></rect>
+<rect x="497.0" y="235" width="2.5" height="17" fill="#82aaff" opacity="0"><animate attributeName="opacity" dur="7.0s" repeatCount="indefinite" values="0;0;1;0;1;0;1;0" keyTimes="0;0.5100;0.66;0.72;0.80;0.86;0.94;1"/></rect>
+</svg>

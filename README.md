@@ -32,24 +32,12 @@
 
 <table>
   <tr>
-    <td width="58%" valign="middle">
-
-```javascript
-const biswajit = {
-    location: "India 🇮🇳",
-    role: "Frontend Developer",
-    code: ["JavaScript", "Kotlin", "Java", "Python"],
-    stack: ["React", "React Native", "Android", "Node"],
-    currentlyLearning: "Python 🐍",
-    openTo: ["Freelance", "Collabs", "Partnerships"],
-    funFact: "I turn ideas into clean, responsive UIs"
-};
-```
-
-  </td>
-  <td width="42%" valign="middle" align="center">
-    <img width="100%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
-  </td>
+    <td width="60%" valign="middle">
+      <img width="100%" src="./assets/about-code.svg" alt="const biswajit = { ... }" />
+    </td>
+    <td width="40%" valign="middle" align="center">
+      <img width="100%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
+    </td>
   </tr>
 </table>
 

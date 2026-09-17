@@ -8,21 +8,17 @@
   </a>
 </p>
 
-<!-- ===== SOCIAL BADGES ===== -->
+<!-- ===== SOCIAL BUTTONS ===== -->
 <p align="center">
-  <a href="https://portfolio-rust-zeta-52.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/biswajitbehera">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/fenton_leon">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:biswajitbehera4200@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=BISWAJIT822&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <a href="https://github.com/BISWAJIT822"><img height="50" src="./buttons/github.svg" alt="GitHub"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/biswajitbehera"><img height="50" src="./buttons/linkedin.svg" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://portfolio-rust-zeta-52.vercel.app/"><img height="50" src="./buttons/website.svg" alt="Website"/></a>&nbsp;
+  <a href="https://www.instagram.com/fenton_leon"><img height="50" src="./buttons/instagram.svg" alt="Instagram"/></a>&nbsp;
+  <a href="mailto:biswajitbehera4200@gmail.com"><img height="50" src="./buttons/email.svg" alt="Email"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BISWAJIT822&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
 
 <br/>

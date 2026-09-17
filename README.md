@@ -13,10 +13,7 @@
   <a href="https://www.linkedin.com/in/biswajitbehera"><img height="50" src="./buttons/linkedin.svg?v=3" alt="LinkedIn"/></a>&nbsp;
   <a href="https://portfolio-rust-zeta-52.vercel.app/"><img height="50" src="./buttons/portfolio.svg?v=3" alt="Portfolio"/></a>&nbsp;
   <a href="https://www.instagram.com/fenton_leon"><img height="50" src="./buttons/instagram.svg?v=3" alt="Instagram"/></a>&nbsp;
-  <a href="mailto:biswajitbehera4200@gmail.com"><img height="50" src="./buttons/email.svg?v=3" alt="Email"/></a>
-</p>
-
-<p align="center">
+  <a href="mailto:biswajitbehera4200@gmail.com"><img height="50" src="./buttons/email.svg?v=3" alt="Email"/></a>&nbsp;
   <img height="50" src="./buttons/views.svg?v=3" alt="Profile Views"/>
 </p>
 

@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BISWAJIT822&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img height="50" src="./buttons/views.svg?v=3" alt="Profile Views"/>
 </p>
 
 <br/>

@@ -10,9 +10,8 @@
 
 <!-- ===== SOCIAL BUTTONS ===== -->
 <p align="center">
-  <a href="https://github.com/BISWAJIT822"><img height="50" src="./buttons/github.svg" alt="GitHub"/></a>&nbsp;
   <a href="https://www.linkedin.com/in/biswajitbehera"><img height="50" src="./buttons/linkedin.svg" alt="LinkedIn"/></a>&nbsp;
-  <a href="https://portfolio-rust-zeta-52.vercel.app/"><img height="50" src="./buttons/website.svg" alt="Website"/></a>&nbsp;
+  <a href="https://portfolio-rust-zeta-52.vercel.app/"><img height="50" src="./buttons/portfolio.svg" alt="Portfolio"/></a>&nbsp;
   <a href="https://www.instagram.com/fenton_leon"><img height="50" src="./buttons/instagram.svg" alt="Instagram"/></a>&nbsp;
   <a href="mailto:biswajitbehera4200@gmail.com"><img height="50" src="./buttons/email.svg" alt="Email"/></a>
 </p>

@@ -13,8 +13,11 @@
   <a href="https://www.linkedin.com/in/biswajitbehera"><img height="50" src="./buttons/linkedin.svg?v=4" alt="LinkedIn"/></a>&nbsp;
   <a href="https://portfolio-rust-zeta-52.vercel.app/"><img height="50" src="./buttons/portfolio.svg?v=4" alt="Portfolio"/></a>&nbsp;
   <a href="https://www.instagram.com/fenton_leon"><img height="50" src="./buttons/instagram.svg?v=4" alt="Instagram"/></a>&nbsp;
-  <a href="mailto:biswajitbehera4200@gmail.com"><img height="50" src="./buttons/email.svg?v=4" alt="Email"/></a>&nbsp;
-  <img height="50" src="./buttons/views.svg?v=4" alt="Profile Views"/>
+  <a href="mailto:biswajitbehera4200@gmail.com"><img height="50" src="./buttons/email.svg?v=4" alt="Email"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BISWAJIT822&label=Profile%20Views&color=0ea5e9&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
 </p>
 
 <br/>

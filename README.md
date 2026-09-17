@@ -53,17 +53,6 @@ const biswajit = {
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td>🔭 &nbsp;Building <b>web, mobile & custom software</b></td>
-    <td>🌱 &nbsp;Currently mastering <b>Python</b></td>
-  </tr>
-  <tr>
-    <td>👯 &nbsp;Open to <b>freelance & collaborations</b></td>
-    <td>📫 &nbsp;<a href="mailto:biswajitbehera4200@gmail.com">biswajitbehera4200@gmail.com</a></td>
-  </tr>
-</table>
-
 ---
 
 <!-- ===== TECH STACK ===== -->

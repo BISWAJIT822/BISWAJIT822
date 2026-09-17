@@ -28,28 +28,41 @@
 <br/>
 
 <!-- ===== ABOUT ME ===== -->
-<img align="right" width="42%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
-
 ### 🧑‍💻 About Me
+
+<table>
+  <tr>
+    <td width="58%" valign="middle">
 
 ```javascript
 const biswajit = {
     location: "India 🇮🇳",
     role: "Frontend Developer",
-    code: ["JavaScript", "Kotlin", "Java", "Python", "C/C++"],
-    building: ["Web Apps", "Mobile Apps", "Custom Software"],
+    code: ["JavaScript", "Kotlin", "Java", "Python"],
+    stack: ["React", "React Native", "Android", "Node"],
     currentlyLearning: "Python 🐍",
-    openTo: ["Freelance", "Collaborations", "Partnerships"],
+    openTo: ["Freelance", "Collabs", "Partnerships"],
     funFact: "I turn ideas into clean, responsive UIs"
 };
 ```
 
-- 🔭 I build **web apps, mobile apps & custom software**
-- 🌱 Currently mastering **Python**
-- 👯 Open to **collaborations, freelance & technical partnerships**
-- 📫 Reach me at **biswajitbehera4200@gmail.com**
+  </td>
+  <td width="42%" valign="middle" align="center">
+    <img width="100%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
+  </td>
+  </tr>
+</table>
 
-<br clear="right"/>
+<table>
+  <tr>
+    <td>🔭 &nbsp;Building <b>web, mobile & custom software</b></td>
+    <td>🌱 &nbsp;Currently mastering <b>Python</b></td>
+  </tr>
+  <tr>
+    <td>👯 &nbsp;Open to <b>freelance & collaborations</b></td>
+    <td>📫 &nbsp;<a href="mailto:biswajitbehera4200@gmail.com">biswajitbehera4200@gmail.com</a></td>
+  </tr>
+</table>
 
 ---
 

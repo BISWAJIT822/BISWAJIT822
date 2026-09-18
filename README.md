@@ -74,7 +74,7 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img width="88%" src="./assets/github-stats.svg?v=2" alt="GitHub Stats" />
+  <img width="100%" src="./assets/github-stats.svg?v=2" alt="GitHub Stats" />
 </p>
 
 ---

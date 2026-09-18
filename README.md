@@ -79,6 +79,10 @@
   <img width="100%" src="./assets/github-stats.svg?v=2" alt="GitHub Stats" />
 </p>
 
+<p align="center">
+  <img width="100%" src="./assets/contributions.svg" alt="Contribution Graph" />
+</p>
+
 ---
 
 <!-- ===== QUOTE ===== -->

@@ -74,22 +74,7 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BISWAJIT822&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=BISWAJIT822&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BISWAJIT822&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<!-- ===== ACTIVITY GRAPH ===== -->
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=BISWAJIT822&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
-</p>
-
-<!-- ===== TROPHIES ===== -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BISWAJIT822&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies" />
+  <img width="88%" src="./assets/github-stats.svg" alt="GitHub Stats" />
 </p>
 
 ---

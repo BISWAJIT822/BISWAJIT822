@@ -1,6 +1,6 @@
 <!-- ===== HEADER (name in contribution-style squares) ===== -->
 <p align="center">
-  <img width="100%" src="./assets/name-grid.svg" alt="Biswajit Behera" />
+  <img width="100%" src="./assets/name-grid.svg?v=2" alt="Biswajit Behera" />
 </p>
 
 <!-- ===== TYPING ANIMATION ===== -->

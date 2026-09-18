@@ -1,6 +1,6 @@
-<!-- ===== HEADER BANNER (animated typed name) ===== -->
+<!-- ===== HEADER (name in contribution-style squares) ===== -->
 <p align="center">
-  <img width="100%" src="./assets/header.svg" alt="Biswajit Behera — Frontend Developer" />
+  <img width="100%" src="./assets/name-grid.svg" alt="Biswajit Behera" />
 </p>
 
 <!-- ===== TYPING ANIMATION ===== -->

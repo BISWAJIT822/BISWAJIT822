@@ -1,10 +1,12 @@
-<!-- ===== HEADER BANNER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0e75b6&height=200&section=header&text=Biswajit%20Behera&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Frontend%20Developer%20%7C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=60&descSize=18&animation=fadeIn" alt="header"/>
+<!-- ===== HEADER BANNER (animated typed name) ===== -->
+<p align="center">
+  <img width="100%" src="./assets/header.svg" alt="Biswajit Behera — Frontend Developer" />
+</p>
 
 <!-- ===== TYPING ANIMATION ===== -->
 <p align="center">
   <a href="https://github.com/BISWAJIT822">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Passionate+Frontend+Developer;React+%7C+React+Native+%7C+Android;Building+web%2C+mobile+%26+custom+software;Currently+learning+Python+%F0%9F%90%8D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=720&lines=Passionate+Frontend+Developer;React+%7C+React+Native+%7C+Android;Building+web%2C+mobile+%26+custom+software;Currently+learning+Python+%F0%9F%90%8D" alt="Typing SVG" />
   </a>
 </p>
 

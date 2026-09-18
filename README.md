@@ -3,13 +3,6 @@
   <img width="100%" src="./assets/name-grid.svg?v=2" alt="Biswajit Behera" />
 </p>
 
-<!-- ===== TYPING ANIMATION ===== -->
-<p align="center">
-  <a href="https://github.com/BISWAJIT822">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=720&lines=Passionate+Frontend+Developer;React+%7C+React+Native+%7C+Android;Building+web%2C+mobile+%26+custom+software;Currently+learning+Python+%F0%9F%90%8D" alt="Typing SVG" />
-  </a>
-</p>
-
 <!-- ===== SOCIAL BUTTONS ===== -->
 <p align="center">
   <a href="https://www.linkedin.com/in/biswajitbehera"><img height="50" src="./buttons/linkedin.svg?v=4" alt="LinkedIn"/></a>&nbsp;

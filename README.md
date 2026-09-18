@@ -42,30 +42,30 @@
 ### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="44" alt="C"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="44" alt="C++"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="44" alt="Java"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="44" alt="Kotlin"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="44" alt="Python"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="44" alt="HTML5"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="44" alt="CSS3"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="44" alt="Bootstrap"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="44" alt="React"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="44" alt="Android"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="44" alt="Flutter"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="44" alt="Node.js"/>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/django/44B78B" height="44" alt="Django"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="44" alt="TensorFlow"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="44" alt="MySQL"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="44" alt="PostgreSQL"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="44" alt="Oracle"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="44" alt="AWS"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="44" alt="Kubernetes"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="44" alt="Firebase"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="44" alt="Git"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="44" alt="Figma"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="44" alt="Photoshop"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="44" alt="Arduino"/>
+  <img src="./tech/c.svg" height="74" alt="C"/>&nbsp;
+  <img src="./tech/cpp.svg" height="74" alt="C++"/>&nbsp;
+  <img src="./tech/java.svg" height="74" alt="Java"/>&nbsp;
+  <img src="./tech/kotlin.svg" height="74" alt="Kotlin"/>&nbsp;
+  <img src="./tech/python.svg" height="74" alt="Python"/>&nbsp;
+  <img src="./tech/html5.svg" height="74" alt="HTML5"/>&nbsp;
+  <img src="./tech/css3.svg" height="74" alt="CSS3"/>&nbsp;
+  <img src="./tech/bootstrap.svg" height="74" alt="Bootstrap"/>&nbsp;
+  <img src="./tech/react.svg" height="74" alt="React"/>&nbsp;
+  <img src="./tech/android.svg" height="74" alt="Android"/>&nbsp;
+  <img src="./tech/flutter.svg" height="74" alt="Flutter"/>&nbsp;
+  <img src="./tech/nodejs.svg" height="74" alt="Node.js"/>&nbsp;
+  <img src="./tech/django.svg" height="74" alt="Django"/>&nbsp;
+  <img src="./tech/tensorflow.svg" height="74" alt="TensorFlow"/>&nbsp;
+  <img src="./tech/mysql.svg" height="74" alt="MySQL"/>&nbsp;
+  <img src="./tech/postgresql.svg" height="74" alt="PostgreSQL"/>&nbsp;
+  <img src="./tech/oracle.svg" height="74" alt="Oracle"/>&nbsp;
+  <img src="./tech/aws.svg" height="74" alt="AWS"/>&nbsp;
+  <img src="./tech/kubernetes.svg" height="74" alt="Kubernetes"/>&nbsp;
+  <img src="./tech/firebase.svg" height="74" alt="Firebase"/>&nbsp;
+  <img src="./tech/git.svg" height="74" alt="Git"/>&nbsp;
+  <img src="./tech/figma.svg" height="74" alt="Figma"/>&nbsp;
+  <img src="./tech/photoshop.svg" height="74" alt="Photoshop"/>&nbsp;
+  <img src="./tech/arduino.svg" height="74" alt="Arduino"/>&nbsp;
 </p>
 
 ---

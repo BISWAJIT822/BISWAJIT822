@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="84" height="74" viewBox="0 0 84 74" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">
+  <style>text{fill:#24292f}@media(prefers-color-scheme:dark){text{fill:#c9d1d9}}</style>
+  <image x="4" y="6" width="76" height="40" preserveAspectRatio="xMidYMid meet" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iYSIgeDE9IjUwMC4wMDMiIHgyPSItLjA5NyIgeTE9IjU3OS4xMDYiIHkyPSIxMDc5LjIwNiIgZ3JhZGllbnRUcmFuc2Zvcm09InRyYW5zbGF0ZSgxNS41MzQgLTk2Ljc3NCkgc2NhbGUoLjE5MzkpIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CiAgICAgIDxzdG9wIG9mZnNldD0iLjAwMyIgc3RvcC1jb2xvcj0iI2U0NDg1NyIvPgogICAgICA8c3RvcCBvZmZzZXQ9Ii40NjkiIHN0b3AtY29sb3I9IiNjNzExZTEiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjN2Y1MmZmIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cGF0aCBmaWxsPSJ1cmwoI2EpIiBkPSJNMTEyLjQ4NCAxMTIuNDg0SDE1LjUxNlYxNS41MTZoOTYuOTY4TDY0IDY0Wm0wIDAiLz4KPC9zdmc+Cg=="/>
+  <text x="42.0" y="66" text-anchor="middle" font-size="12" font-weight="600">Kotlin</text>
+</svg>
